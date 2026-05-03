@@ -1,0 +1,3 @@
+branch: docs/api-reference-v3
+author: andre-garcia
+seeded: 2026-05-03T12:00:00Z
